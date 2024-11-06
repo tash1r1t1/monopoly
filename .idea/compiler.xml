@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="junit5-maven-consumer" target="14" />
+      <module name="junit5-maven-consumer" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
